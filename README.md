@@ -102,3 +102,23 @@
     Отправка запроса на сервер Яндекса для проверки токена, полученного от пользователя.
     Инкапсулирует (скрывает) всю логику работы с cURL и внешним API.
 **Зависимости:** Получает серверный ключ капчи через конструктор.
+
+## Скриншоты
+
+**Главная страница:**
+
+<img width="1482" height="793" alt="image" src="https://github.com/user-attachments/assets/8a9eb394-4c7c-474f-83a9-94a0bd704969" />
+
+**Страница регистрации:**
+
+<img width="1390" height="875" alt="image" src="https://github.com/user-attachments/assets/584c0e79-ea74-4a30-81b2-a0adb2bc6883" />
+
+
+**Страница авторизации с капчей:**
+
+<img width="1354" height="764" alt="image" src="https://github.com/user-attachments/assets/bce20b07-a98d-4b3b-b7fb-429c05db1813" />
+
+
+**Страница профиля пользователя:**
+
+<img width="954" height="892" alt="image" src="https://github.com/user-attachments/assets/cd23a3d5-1f77-4438-9913-53030a285456" />
